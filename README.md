@@ -13,6 +13,8 @@
  - Song Skipping and Repeating
  - "Radio stations" based off of playlists on YouTube
 
+[![Run on Repl.it](https://repl.it/badge/github/CF12/music-bot)](https://repl.it/github/CF12/music-bot)
+
 ## Planned Features:
  - https://github.com/CF12/music-bot/issues/3
 
